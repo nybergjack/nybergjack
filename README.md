@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nybergjack@gmail.com**
 
-- 📄 Know about my experiences [Coming soon](Coming soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
