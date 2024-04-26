@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript/React/Vue**
 
-- 👨‍💻 All of my projects are available at [https://jacknyberg.se/](https://www.jacknyberg.se/)
+- 👨‍💻 Some of my projects are available at [https://jacknyberg.se/](https://www.jacknyberg.se/)
 
 - 📫 How to reach me **nybergjack@gmail.com**
 
